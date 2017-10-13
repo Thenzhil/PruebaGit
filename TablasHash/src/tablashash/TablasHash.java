@@ -14,7 +14,9 @@ import javax.swing.JOptionPane;
 public class TablasHash {
 
     public void funcionHash(){
-        
+        for (int i = 0; i < 10; i++) {
+            System.out.println("Hola " + i);
+        }
     }
     /**
      * @param args the command line arguments
@@ -24,7 +26,7 @@ public class TablasHash {
     }
     /**Autor: Sergio GM
      * Nombre: Hola 
-     * Descripción : hola mundo
+     * Descripciï¿½n : hola mundo
      * Return : void
      */
     static void hola(){
