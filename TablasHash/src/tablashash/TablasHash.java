@@ -13,6 +13,9 @@ import javax.swing.JOptionPane;
  */
 public class TablasHash {
 
+    public void funcionHash(){
+        
+    }
     /**
      * @param args the command line arguments
      */
