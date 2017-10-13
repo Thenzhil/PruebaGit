@@ -22,7 +22,11 @@ public class TablasHash {
     public static void main(String[] args) {
         hola();
     }
-    
+    /**Autor: Sergio GM
+     * Nombre: Hola 
+     * Descripción : hola mundo
+     * Return : void
+     */
     static void hola(){
     JOptionPane.showMessageDialog(null,"Hola mundo");
     }
