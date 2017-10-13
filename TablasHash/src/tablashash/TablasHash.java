@@ -29,5 +29,9 @@ public class TablasHash {
      */
     static void hola(){
     JOptionPane.showMessageDialog(null,"Hola mundo");
+    System.out.println("jhasvgwbn emj");
     }
+    
+    /***/
+    
 }
