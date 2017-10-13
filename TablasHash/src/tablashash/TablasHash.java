@@ -11,6 +11,9 @@ package tablashash;
  */
 public class TablasHash {
 
+    public void funcionHash(){
+        
+    }
     /**
      * @param args the command line arguments
      */
