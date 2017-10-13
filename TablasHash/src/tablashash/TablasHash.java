@@ -28,10 +28,16 @@ public class TablasHash {
      * Return : void
      */
     static void hola(){
+      
     JOptionPane.showMessageDialog(null,"Hola mundo");
     System.out.println("jhasvgwbn emj");
-    }
     
+  }
+      public String mensaje(){
+        String h="prueba ";
+        
+        return h;     
+    }
     /***/
     
 }
