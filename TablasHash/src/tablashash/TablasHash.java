@@ -33,6 +33,12 @@ public class TablasHash {
     System.out.println("jhasvgwbn emj");
     
   }
+       /**Autor: Sergio GM
+     * Nombre: mensaje 
+     * Descripción : hola mundo
+     * Return : void
+     * @return 
+     */
       public String mensaje(){
         String h="prueba ";
         
