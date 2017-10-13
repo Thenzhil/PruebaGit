@@ -5,6 +5,8 @@
  */
 package tablashash;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author jtenchil-smartsoft
@@ -15,7 +17,10 @@ public class TablasHash {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        hola();
     }
     
+    static void hola(){
+    JOptionPane.showMessageDialog(null,"Hola mundo");
+    }
 }
